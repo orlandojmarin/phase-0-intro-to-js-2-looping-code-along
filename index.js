@@ -18,6 +18,6 @@ function writeCards(stringName, eventName) {
 function countDown(){
     let countDown = 10
     while (countDown >= 0) {
-        console.log (countDown--)
+       console.log (countDown--);
     }
 }
